@@ -1,4 +1,4 @@
-just a little notice here i guess - i probably won't be working on this mod for a looong while
+quick heads up, i likely wont be working on this mod anymore . *however*, im currently working on another mod called [Carpe Diem](https://github.com/stillwaterkay/carpe-diem) if you wanna check that out
 
 ![](https://github.com/KayyAyeAre/Dusted-Lands/blob/main/assets/banner.png) 
 # Dusted Lands
